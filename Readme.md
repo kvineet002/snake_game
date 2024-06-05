@@ -15,6 +15,7 @@ Instructions on how to install and set up the project.
 
 
 ##pip3 install pygame
+Run the main.py file to start the game using python3 main.py
 
 ## Usage
 

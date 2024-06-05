@@ -1,11 +1,10 @@
-# Project Title
+# SNAKE GAME USING PYGAME
 
 A brief description of what the project does.
 
 ## Table of Contents
 
 - [Installation](#installation)
-pip3 install pygame
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -13,6 +12,9 @@ pip3 install pygame
 ## Installation
 
 Instructions on how to install and set up the project.
+
+
+pip3 install pygame
 
 ## Usage
 

@@ -14,7 +14,7 @@ A brief description of what the project does.
 Instructions on how to install and set up the project.
 
 
-pip3 install pygame
+##pip3 install pygame
 
 ## Usage
 

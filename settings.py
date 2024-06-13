@@ -3,7 +3,7 @@ from os.path import join
 import pygame
 
 
-CELL_SIZE = 70
+CELL_SIZE = 50
 ROWS = 13
 COLS = 25
 WINDOW_WIDTH = COLS * CELL_SIZE

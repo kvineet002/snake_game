@@ -1,4 +1,6 @@
 from settings import *
+# snake.py
+
 import pygame
 from os import walk, path
 
@@ -105,3 +107,7 @@ class Snake:
     def draw(self):
         for surf, rect in self.draw_data:
             self.display_surface.blit(surf, rect)
+
+    def change_direction(self, new_direction):
+        if self.direction + new_direction != pygame.Vector2(0, 0):
+            self.direction = new_direction
